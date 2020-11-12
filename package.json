@@ -1,0 +1,23 @@
+{
+  "name": "ws-proxy",
+  "version": "1.0.0",
+  "description": "Habbo TLS over Websocket to TCP proxy implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elbrah2020/node-ws-proxy.git"
+  },
+  "author": "Burak <burak@burak.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Elbrah2020/node-ws-proxy/issues"
+  },
+  "homepage": "https://github.com/Elbrah2020/node-ws-proxy#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "ws": "^7.4.0"
+  }
+}
